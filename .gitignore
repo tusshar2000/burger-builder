@@ -4,7 +4,7 @@
 config.js
 /firebase.json
 /.firebaserc
-
+/.firebase
 # dependencies
 /node_modules
 

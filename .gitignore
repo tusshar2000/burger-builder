@@ -6,6 +6,7 @@ config.js
 /.firebase
 firebase.json
 .firebaserc
+/github
 
 # dependencies
 /node_modules

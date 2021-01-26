@@ -3,6 +3,9 @@
 #my declared
 config.js
 /config
+/.firebase
+firebase.json
+.firebaserc
 
 # dependencies
 /node_modules
